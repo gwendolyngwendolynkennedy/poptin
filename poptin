@@ -1,0 +1,602 @@
+
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="pingback" href="https://www.poptin.com/blog/xmlrpc.php" />
+	<link rel="shortcut icon" href="https://www.poptin.com/blog/wp-content/uploads/2019/10/cropped-favicon-270x270.png" type="image/x-icon">
+	<link rel="preload" href="https://www.poptin.com/blog/wp-content/themes/general-blog/fonts/oswald-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.poptin.com/blog/wp-content/themes/general-blog/fonts/oswald-bold.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.poptin.com/blog/wp-content/themes/general-blog/fonts/open-sans-hebrew-regular.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="https://www.poptin.com/blog/wp-content/themes/general-blog/fonts/open-sans-behrew-bold.woff2" as="font" type="font/woff2" crossorigin>
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>ADOBE Color Archives - блог Poptin</title>
+	<link rel="canonical" href="https://www.poptin.com/blog/ru/tag/adobe-color/" />
+	<meta property="og:locale" content="ru" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="ADOBE Color Archives - блог Poptin" />
+	<meta property="og:url" content="https://www.poptin.com/blog/ru/tag/adobe-color/" />
+	<meta property="og:site_name" content="Поптинский блог" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/www.poptin.com\/blog\/tag\/adobe-color\/","url":"https:\/\/www.poptin.com\/blog\/tag\/adobe-color\/","name":"ADOBE Color Archives - \u0431\u043b\u043e\u0433 Poptin","isPartOf":{"@id":"https:\/\/www.poptin.com\/blog\/#website"},"primaryImageOfPage":{"@id":"https:\/\/www.poptin.com\/blog\/tag\/adobe-color\/#primaryimage"},"image":{"@id":"https:\/\/www.poptin.com\/blog\/tag\/adobe-color\/#primaryimage"},"thumbnailUrl":"https:\/\/www.poptin.com\/blog\/wp-content\/uploads\/2017\/07\/design-tools.jpg","breadcrumb":{"@id":"https:\/\/www.poptin.com\/blog\/tag\/adobe-color\/#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.poptin.com\/blog\/tag\/adobe-color\/#primaryimage","url":"https:\/\/www.poptin.com\/blog\/wp-content\/uploads\/2017\/07\/design-tools.jpg","contentUrl":"https:\/\/www.poptin.com\/blog\/wp-content\/uploads\/2017\/07\/design-tools.jpg","width":723,"height":334,"caption":"design tools"},{"@type":"BreadcrumbList","@id":"https:\/\/www.poptin.com\/blog\/tag\/adobe-color\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430","item":"https:\/\/www.poptin.com\/blog\/"},{"@type":"ListItem","position":2,"name":"ADOBE Color"}]},{"@type":"WebSite","@id":"https:\/\/www.poptin.com\/blog\/#website","url":"https:\/\/www.poptin.com\/blog\/","name":"\u041f\u043e\u043f\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0431\u043b\u043e\u0433","description":"\u0411\u043b\u043e\u0433 \u043e\u0431 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433\u0435 \u0438 CRO","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.poptin.com\/blog\/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel="alternate" type="application/rss+xml" title="Poptin blog &raquo; Feed" href="https://www.poptin.com/blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Poptin blog &raquo; Comments Feed" href="https://www.poptin.com/blog/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Poptin blog &raquo; ADOBE Color Tag Feed" href="https://www.poptin.com/blog/tag/adobe-color/feed/" />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.poptin.com/blog/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='weglot-css-css' href='https://www.poptin.com/blog/wp-content/plugins/weglot/dist/css/front-css.css?ver=4.0.1' type='text/css' media='' />
+<link rel='stylesheet' id='new-flag-css-css' href='https://www.poptin.com/blog/wp-content/plugins/weglot/app/styles/new-flags.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://www.poptin.com/blog/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+</style>
+<link rel='stylesheet' id='general-blog-frontend-css' href='https://www.poptin.com/blog/wp-content/themes/general-blog/build/app.min.css?ver=1.0.2' type='text/css' media='' />
+<style id='general-blog-frontend-inline-css' type='text/css'>
+
+
+            :root {
+                --general-blog-loading-img: url(https://www.poptin.com/blog/wp-content/themes/general-blog/images/loader.gif);
+                --angle-right-svg: url(https://www.poptin.com/blog/wp-content/themes/general-blog/images/icons/angle-right.svg);
+            }
+
+            @font-face {
+                font-family: 'Oswald';
+                src:local('Oswald'),
+                    url(https://www.poptin.com/blog/wp-content/themes/general-blog/fonts/oswald-regular.woff2) format('woff2');
+                font-weight: 400;
+                font-style: normal;
+                font-display: swap;
+            }
+
+            @font-face {
+                font-family: 'Oswald';
+                src:local('Oswald'),
+                    url(https://www.poptin.com/blog/wp-content/themes/general-blog/fonts/oswald-bold.woff2) format('woff2');
+                font-weight: 700;
+                font-style: normal;
+                font-display: swap;
+            }
+
+            @font-face {
+                font-family: 'Open Sans Hebrew';
+                src:local('Open Sans Hebrew'),
+                    url(https://www.poptin.com/blog/wp-content/themes/general-blog/fonts/open-sans-hebrew-regular.woff2) format('woff2');
+                font-weight: 400;
+                font-style: normal;
+                font-display: swap;
+            }
+
+            @font-face {
+                font-family: 'Open Sans Hebrew';
+                src:local('Open Sans Hebrew'),
+                    url(https://www.poptin.com/blog/wp-content/themes/general-blog/fonts/open-sans-behrew-bold.woff2) format('woff2');
+                font-weight: 700;
+                font-style: normal;
+                font-display: swap;
+            }
+        
+
+			body {
+				background-image: url(https://www.poptin.com/blog/wp-content/themes/general-blog/images/blog-bg.png);
+				background-position: left top;
+				background-size: auto;
+				background-repeat: repeat;
+				background-attachment: scroll;
+			}
+		
+</style>
+<link rel='stylesheet' id='moove_gdpr_frontend-css' href='https://www.poptin.com/blog/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main.css?ver=4.12.2' type='text/css' media='all' />
+<style id='moove_gdpr_frontend-inline-css' type='text/css'>
+#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:Nunito,sans-serif}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#0C4DA2;border-color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#0C4DA2;border:1px solid #0C4DA2}#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #0C4DA2;-moz-box-shadow:0 0 1px 3px #0C4DA2;box-shadow:0 0 1px 3px #0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#0C4DA2}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#0C4DA2}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}
+</style>
+<script type='text/javascript' id='addtoany-core-js-before'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+</script>
+<script type='text/javascript'  defer src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' defer src='https://www.poptin.com/blog/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' defer src='https://www.poptin.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript'  defer src='https://www.poptin.com/blog/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<script type='text/javascript' defer src='https://www.poptin.com/blog/wp-content/plugins/weglot/dist/front-js.js?ver=4.0.1' id='wp-weglot-js-js'></script>
+<script type='text/javascript' defer src='https://www.poptin.com/blog/wp-content/themes/general-blog/build/app.min.js?ver=1.0.2' id='general-blog-frontend-js'></script>
+<link rel="https://api.w.org/" href="https://www.poptin.com/blog/wp-json/" /><link rel="alternate" type="application/json" href="https://www.poptin.com/blog/wp-json/wp/v2/tags/228" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.poptin.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.poptin.com/blog/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+
+<meta name="google" content="notranslate"/>
+<link rel="alternate" href="https://www.poptin.com/blog/tag/adobe-color/" hreflang="en"/>
+<link rel="alternate" href="https://www.poptin.com/blog/pt/tag/adobe-color/" hreflang="pt"/>
+<link rel="alternate" href="https://www.poptin.com/blog/es/tag/adobe-color/" hreflang="es"/>
+<link rel="alternate" href="https://www.poptin.com/blog/fr/tag/adobe-color/" hreflang="fr"/>
+<link rel="alternate" href="https://www.poptin.com/blog/it/tag/adobe-color/" hreflang="it"/>
+<link rel="alternate" href="https://www.poptin.com/blog/de/tag/adobe-color/" hreflang="de"/>
+<link rel="alternate" href="https://www.poptin.com/blog/ru/tag/adobe-color/" hreflang="ru"/>
+<link rel="alternate" href="https://www.poptin.com/blog/ar/tag/adobe-color/" hreflang="ar"/>
+<link rel="alternate" href="https://www.poptin.com/blog/hi/tag/adobe-color/" hreflang="hi"/>
+<link rel="alternate" href="https://www.poptin.com/blog/nl/tag/adobe-color/" hreflang="nl"/>
+<link rel="alternate" href="https://www.poptin.com/blog/zh/tag/adobe-color/" hreflang="zh"/>
+<link rel="alternate" href="https://www.poptin.com/blog/bn/tag/adobe-color/" hreflang="bn"/>
+<link rel="alternate" href="https://www.poptin.com/blog/ja/tag/adobe-color/" hreflang="ja"/>
+<link rel="alternate" href="https://www.poptin.com/blog/ko/tag/adobe-color/" hreflang="ko"/>
+<link rel="alternate" href="https://www.poptin.com/blog/pa/tag/adobe-color/" hreflang="pa"/>
+<link rel="alternate" href="https://www.poptin.com/blog/jv/tag/adobe-color/" hreflang="jv"/>
+<script type="application/json" id="weglot-data">{"language_from":"en","languages":[{"language_to":"pt","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"es","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"fr","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"it","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"de","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"ru","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"ar","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"hi","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"nl","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"zh","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"bn","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"ja","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"ko","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"pa","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null},{"language_to":"jv","custom_code":null,"custom_name":null,"custom_local_name":null,"provider":null,"enabled":true,"automatic_translation_enabled":true,"connect_host_destination":null,"custom_flag":null}],"excluded_paths":[{"type":"CONTAIN","value":"\/terms-of-service","language_button_displayed":true,"exclusion_behavior":"NOT_TRANSLATED","excluded_languages":[],"regex":"\/terms-of-service"},{"type":"CONTAIN","value":"\/privacy-policy","language_button_displayed":true,"exclusion_behavior":"NOT_TRANSLATED","excluded_languages":[],"regex":"\/privacy-policy"},{"type":"CONTAIN","value":"\/sample-page","language_button_displayed":true,"exclusion_behavior":"NOT_TRANSLATED","excluded_languages":[],"regex":"\/sample-page"},{"type":"CONTAIN","value":"\/2018\/10\/09\/\u05e9\u05dc\u05d5\u05dd-\u05e2\u05d5\u05dc\u05dd","language_button_displayed":true,"exclusion_behavior":"NOT_TRANSLATED","excluded_languages":[],"regex":"\/2018\/10\/09\/\u05e9\u05dc\u05d5\u05dd-\u05e2\u05d5\u05dc\u05dd"},{"type":"CONTAIN","value":"\/author\/poptinsu_admin","language_button_displayed":true,"exclusion_behavior":"NOT_TRANSLATED","excluded_languages":[],"regex":"\/author\/poptinsu_admin"}],"excluded_blocks":[],"custom_settings":{"button_style":{"is_dropdown":true,"with_flags":true,"flag_type":"circle","with_name":true,"custom_css":"","full_name":false},"translate_email":false,"translate_search":false,"translate_amp":false},"current_language":"ru","switcher_links":{"en":"https:\/\/www.poptin.com\/blog\/tag\/adobe-color\/","pt":"https:\/\/www.poptin.com\/blog\/pt\/tag\/adobe-color\/","es":"https:\/\/www.poptin.com\/blog\/es\/tag\/adobe-color\/","fr":"https:\/\/www.poptin.com\/blog\/fr\/tag\/adobe-color\/","it":"https:\/\/www.poptin.com\/blog\/it\/tag\/adobe-color\/","de":"https:\/\/www.poptin.com\/blog\/de\/tag\/adobe-color\/","ru":"https:\/\/www.poptin.com\/blog\/ru\/tag\/adobe-color\/","ar":"https:\/\/www.poptin.com\/blog\/ar\/tag\/adobe-color\/","hi":"https:\/\/www.poptin.com\/blog\/hi\/tag\/adobe-color\/","nl":"https:\/\/www.poptin.com\/blog\/nl\/tag\/adobe-color\/","zh":"https:\/\/www.poptin.com\/blog\/zh\/tag\/adobe-color\/","bn":"https:\/\/www.poptin.com\/blog\/bn\/tag\/adobe-color\/","ja":"https:\/\/www.poptin.com\/blog\/ja\/tag\/adobe-color\/","ko":"https:\/\/www.poptin.com\/blog\/ko\/tag\/adobe-color\/","pa":"https:\/\/www.poptin.com\/blog\/pa\/tag\/adobe-color\/","jv":"https:\/\/www.poptin.com\/blog\/jv\/tag\/adobe-color\/"},"original_path":"\/tag\/adobe-color\/"}</script><link rel="icon" href="https://www.poptin.com/blog/wp-content/uploads/2019/10/cropped-favicon-270x270-90x90.png" sizes="32x32" />
+<link rel="icon" href="https://www.poptin.com/blog/wp-content/uploads/2019/10/cropped-favicon-270x270.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.poptin.com/blog/wp-content/uploads/2019/10/cropped-favicon-270x270.png" />
+<meta name="msapplication-TileImage" content="https://www.poptin.com/blog/wp-content/uploads/2019/10/cropped-favicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.overflow-x-hidden {
+	overflow-x:hidden;
+}
+
+.single-post article a {
+	word-break: normal !important;
+}		</style>
+			
+</head>
+<body class="archive tag tag-adobe-color tag-228" itemscope itemtype="http://schema.org/WebPage">
+<!-- load lazyload-scripts into head after the first contentful paint (FCP) -->
+<template id="lazyload-scripts">
+	<div style="display:none">
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 1025166647;
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+		<noscript>
+			<div style="display:inline;">
+				<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1025166647/?guid=ON&amp;script=0"/>
+			</div>
+		</noscript>
+	</div>
+
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-89145678-1', 'auto', {'allowLinker': true});
+		ga('require', 'linker');
+		ga('linker:autoLink', ['app.popt.in', 'poptin.co.il'] );
+		ga('send', 'pageview');
+
+	</script>
+
+	<script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=95e95a9709058' async='true'></script> 
+
+	<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="23fc7132-3c57-49b5-8362-1e94f44446d3";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+</template>
+<div id="document-wrap">
+<div class="grid grid-cols-6">
+	<span class="bg-[#fc8c2c] h-[4px] inline-block"></span>
+	<span class="bg-[#3fa1d3] h-[4px] inline-block"></span>
+	<span class="bg-[#27aa4d] h-[4px] inline-block"></span>
+	<span class="bg-[#ffc21d] h-[4px] inline-block"></span>
+	<span class="bg-[#ff426e] h-[4px] inline-block"></span>
+	<span class="bg-[#86deff] h-[4px] inline-block"></span>
+</div><header class="bg-white border-b border-x-0  border-t-0 border-solid border-gray-1">
+    <nav class="max-w-screen-xl px-5 mx-auto flex items-center justify-between gap-5 h-[60px] sm:h-auto sm:py-3 lg:py-0">
+        <a href="https://www.poptin.com/blog/ru/">
+            <picture>
+                <img 
+                    class="object-contain object-center w-[150px] sm:w-full h-auto min-w-[100px]" width="180" height="38" 
+                    src="https://www.poptin.com/blog/wp-content/themes/general-blog/images/poptin-logo.webp" 
+                    alt="site main logo"
+                />
+            </picture>
+        </a>
+        <div class="general-blog-nav hidden md:block"><ul class="general-blog-nav__ul"><li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home general-blog-nav__li li-18"><a href="https://www.poptin.com/blog/ru/" class="">Блог</a></li>
+<li id="menu-item-1496" class="menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-1496"><a href="https://www.poptin.com/blog/ru/marketplace/" class="">Рыночная площадка</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-16"><a href="https://www.poptin.com/blog/ru/" class="">Отвези меня в Поптин.</a></li>
+<li id="menu-item-2276" class="weglot-parent-menu-item weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 ru menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children has-dropdown-menu general-blog-nav__li li-2276"><a title="Русский" href="#weglot_switcher" class="dropdown-toggle"  data-toggle="dropdown" data-wg-notranslate="">RU <span class="caret inline-flex"></span></a>
+<ul class="dropdown  depth_0">
+	<li id="menu-item-weglot-2276-en" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-en en menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-en"><a title="English" href="https://www.poptin.com/blog/tag/adobe-color/" class="" data-wg-notranslate="">EN</a></li>
+	<li id="menu-item-weglot-2276-pt" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-pt pt menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-pt"><a title="Português" href="https://www.poptin.com/blog/pt/tag/adobe-color/" class="" data-wg-notranslate="">PT</a></li>
+	<li id="menu-item-weglot-2276-es" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-es es menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-es"><a title="Español" href="https://www.poptin.com/blog/es/tag/adobe-color/" class="" data-wg-notranslate="">ES</a></li>
+	<li id="menu-item-weglot-2276-fr" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-fr fr menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-fr"><a title="Français" href="https://www.poptin.com/blog/fr/tag/adobe-color/" class="" data-wg-notranslate="">FR</a></li>
+	<li id="menu-item-weglot-2276-it" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-it it menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-it"><a title="Italiano" href="https://www.poptin.com/blog/it/tag/adobe-color/" class="" data-wg-notranslate="">IT</a></li>
+	<li id="menu-item-weglot-2276-de" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-de de menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-de"><a title="Deutsch" href="https://www.poptin.com/blog/de/tag/adobe-color/" class="" data-wg-notranslate="">DE</a></li>
+	<li id="menu-item-weglot-2276-ar" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-ar ar menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-ar"><a title="العربية‏" href="https://www.poptin.com/blog/ar/tag/adobe-color/" class="" data-wg-notranslate="">AR</a></li>
+	<li id="menu-item-weglot-2276-hi" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-hi hi menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-hi"><a title="हिंदी" href="https://www.poptin.com/blog/hi/tag/adobe-color/" class="" data-wg-notranslate="">HI</a></li>
+	<li id="menu-item-weglot-2276-nl" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-nl nl menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-nl"><a title="Nederlands" href="https://www.poptin.com/blog/nl/tag/adobe-color/" class="" data-wg-notranslate="">NL</a></li>
+	<li id="menu-item-weglot-2276-zh" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-zh zh menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-zh"><a title="中文 (简体)" href="https://www.poptin.com/blog/zh/tag/adobe-color/" class="" data-wg-notranslate="">ZH</a></li>
+	<li id="menu-item-weglot-2276-bn" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-bn bn menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-bn"><a title="বাংলা" href="https://www.poptin.com/blog/bn/tag/adobe-color/" class="" data-wg-notranslate="">BN</a></li>
+	<li id="menu-item-weglot-2276-ja" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-ja ja menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-ja"><a title="日本語" href="https://www.poptin.com/blog/ja/tag/adobe-color/" class="" data-wg-notranslate="">JA</a></li>
+	<li id="menu-item-weglot-2276-ko" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-ko ko menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-ko"><a title="한국어" href="https://www.poptin.com/blog/ko/tag/adobe-color/" class="" data-wg-notranslate="">KO</a></li>
+	<li id="menu-item-weglot-2276-pa" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-pa pa menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-pa"><a title="ਪੰਜਾਬੀ" href="https://www.poptin.com/blog/pa/tag/adobe-color/" class="" data-wg-notranslate="">PA</a></li>
+	<li id="menu-item-weglot-2276-jv" class="weglot-lang menu-item-weglot weglot-language weglot-flags flag-3 weglot-jv jv menu-item menu-item-type-custom menu-item-object-custom general-blog-nav__li li-weglot-2276-jv"><a title="Wong Jawa" href="https://www.poptin.com/blog/jv/tag/adobe-color/" class="" data-wg-notranslate="">JV</a></li>
+</ul>
+</li>
+</ul></div>
+        <button class="theme-hamburger-btn w-8">
+            <span class="pointer-events-none">            <svg class="w-full" viewbox="0 0 1792 1792"><path d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z" fill="currentColor"/></svg>
+        </span>
+        </button>
+
+        <button class="theme-menu-close-btn">
+                        <svg width="20" height="20" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1171 960q0 13-10 23l-466 466q-10 10-23 10t-23-10l-50-50q-10-10-10-23t10-23l393-393-393-393q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l466 466q10 10 10 23z" fill="currentColor"/></svg>
+                </button>
+
+    </nav>
+</header>
+<section class="pt-7">
+    <div class="max-w-screen-xl px-2 sm:px-5 mx-auto grid md:grid-cols-3 gap-7 items-start">
+        <main class="md:col-span-2 grid gap-6">
+            <h1 class="font-primary text-title text-xl uppercase">
+            Архивы по тегам: ADOBE Цвет            </h1>
+            
+<article class="p-4 sm:max-w-full sm:p-6 bg-white border border-solid border-gray-1">
+    
+    <h2 class="mt-0 p-0 mb-5 font-primary text-2xl sm:text-3xl sm:leading-[44px] font-bold sm:uppercase">
+        <a class="no-underline block text-2xl text-gray-2 hover:text-primary transition duration-150" 
+            href="https://www.poptin.com/blog/ru/21-useful-tools-creating-professional-designs-free/">
+            Сделайте это сами: 21+ полезных инструментов для создания профессиональных дизайнов бесплатно        </a>
+    </h2>
+
+    <a href="https://www.poptin.com/blog/ru/21-useful-tools-creating-professional-designs-free/" class="group block mb-4">
+        <figure class="relative">
+            <img width="723" height="334" src="https://www.poptin.com/blog/wp-content/uploads/2017/07/design-tools.jpg" class="w-full object-cover h-[200px] sm:h-[300px] -mb-[4px] wp-post-image" alt="конструкторские инструменты" decoding="async" title="Feature image" srcset="https://www.poptin.com/blog/wp-content/uploads/2017/07/design-tools.jpg 723w, https://www.poptin.com/blog/wp-content/uploads/2017/07/design-tools-300x139.jpg 300w" sizes="(max-width: 723px) 100vw, 723px" />            <figcaption 
+                class="absolute z-10 left-0 top-0 w-full h-full bg-black/50 flex justify-center items-center ease-linear duration-150 opacity-0 group-hover:opacity-100">
+                <span class="text-white w-[54px]">
+                                <svg x="0px" y="0px" viewbox="0 0 1000 1000">
+            <g><path fill="currentColor" d="M699.1,454.1H545.9V300.9c0-25.4-20.6-45.9-45.9-45.9c-25.4,0-45.9,20.6-45.9,45.9v153.1H300.9c-25.4,0-45.9,20.6-45.9,45.9c0,25.4,20.6,45.9,45.9,45.9h153.1v153.1c0,25.4,20.6,45.9,45.9,45.9c25.4,0,45.9-20.6,45.9-45.9V545.9h153.1c25.4,0,45.9-20.6,45.9-45.9C745,474.6,724.4,454.1,699.1,454.1z M500,10C229.4,10,10,229.4,10,500c0,270.6,219.4,490,490,490c270.6,0,490-219.4,490-490C990,229.4,770.6,10,500,10z M500,898.1c-219.9,0-398.1-178.3-398.1-398.1c0-219.9,178.3-398.1,398.1-398.1S898.1,280.1,898.1,500S719.9,898.1,500,898.1z"/></g>
+            </svg>
+                        </span>
+            </figcaption>
+        </figure>
+    </a>
+
+    <div class="flex items-center gap-2 md:gap-5 flex-wrap">
+                <div class="flex items-center gap-1.5">
+                        <svg class="text-gray-4 inline-block w-[18px] h-[18px]" width="18" height="18" viewbox="0 0 1792 1792">
+                <path d="M1536 1399q0 109-62.5 187t-150.5 78h-854q-88 0-150.5-78t-62.5-187q0-85 8.5-160.5t31.5-152 58.5-131 94-89 134.5-34.5q131 128 313 128t313-128q76 0 134.5 34.5t94 89 58.5 131 31.5 152 8.5 160.5zm-256-887q0 159-112.5 271.5t-271.5 112.5-271.5-112.5-112.5-271.5 112.5-271.5 271.5-112.5 271.5 112.5 112.5 271.5z" fill="currentColor"/>
+            </svg>
+        			<a href="https://www.poptin.com/blog/ru/author/avi-whol/" class="text-gray-2 inline-block no-underline font-secondary text-base hover:text-primary">
+				Ави Вол			</a>
+		        </div>
+        <div class="flex items-center gap-1.5">
+                    <svg class="text-gray-4" width="16" height="16"  viewbox="0 0 1792 1792"><path d="M192 1664h288v-288h-288v288zm352 0h320v-288h-320v288zm-352-352h288v-320h-288v320zm352 0h320v-320h-320v320zm-352-384h288v-288h-288v288zm736 736h320v-288h-320v288zm-384-736h320v-288h-320v288zm768 736h288v-288h-288v288zm-384-352h320v-320h-320v320zm-352-864v-288q0-13-9.5-22.5t-22.5-9.5h-64q-13 0-22.5 9.5t-9.5 22.5v288q0 13 9.5 22.5t22.5 9.5h64q13 0 22.5-9.5t9.5-22.5zm736 864h288v-320h-288v320zm-384-384h320v-288h-320v288zm384 0h288v-288h-288v288zm32-480v-288q0-13-9.5-22.5t-22.5-9.5h-64q-13 0-22.5 9.5t-9.5 22.5v288q0 13 9.5 22.5t22.5 9.5h64q13 0 22.5-9.5t9.5-22.5zm384-64v1280q0 52-38 90t-90 38h-1408q-52 0-90-38t-38-90v-1280q0-52 38-90t90-38h128v-96q0-66 47-113t113-47h64q66 0 113 47t47 113v96h384v-96q0-66 47-113t113-47h64q66 0 113 47t47 113v96h128q52 0 90 38t38 90z" fill="currentColor"/></svg>
+        			<span class="text-gray-2 inline-block font-secondary text-base">
+				17 июля 2017 года			</span>
+		        </div>
+        <div class="flex items-center gap-1.5">
+                    <svg class="text-gray-4 inline-block w-[16px] h-[16px]" width="16" height="16" viewbox="0 0 1792 1792"><path d="M576 448q0-53-37.5-90.5t-90.5-37.5-90.5 37.5-37.5 90.5 37.5 90.5 90.5 37.5 90.5-37.5 37.5-90.5zm1067 576q0 53-37 90l-491 492q-39 37-91 37-53 0-90-37l-715-716q-38-37-64.5-101t-26.5-117v-416q0-52 38-90t90-38h416q53 0 117 26.5t102 64.5l715 714q37 39 37 91z" fill="currentColor"/></svg>
+        				<a  class="text-gray-2 inline-block no-underline font-secondary text-base hover:text-primary" href="https://www.poptin.com/blog/ru/category/all/">
+					All,				</a>
+								<a  class="text-gray-2 inline-block no-underline font-secondary text-base hover:text-primary" href="https://www.poptin.com/blog/ru/category/graphic-design/">
+					графическое оформление				</a>
+				        </div>
+    </div>
+    
+    <div class="font-secondary text-base text-gray-3 py-5">
+        We don’t all have Photoshop or the need for complicated design software programs with a steep learning curve. Most times we just want to fix a photo or design an ad for Facebook or a banner for social media. I’ve gathered here 21…    </div>
+
+    <a 
+        class="text-base sm:text-[21px] font-secondary font-bold text-black py-2.5 px-5 block w-full border border-solid border-gray-1 no-underline uppercase text-center transition duration-200 hover:bg-primary hover:text-white"
+        href="https://www.poptin.com/blog/ru/21-useful-tools-creating-professional-designs-free/">
+        Continue reading    </a>
+
+</article>        </main>
+        
+<aside id="general-theme-sidebar" class="self-start">
+    <div class="grid gap-5">
+        <div class="p-4 sm:p-6 bg-white border border-solid border-gray-1">
+        
+<!-- search form -->
+<form  role="search" method="get" action="https://www.poptin.com/blog/ru/">
+    <div>
+        <div>
+            <input 
+                class="block bg-[#f6f6f6] w-full text-base text-[#777] font-secondary border border-solid border-[#0000001c] px-5 py-2" 
+                value="" 
+                placeholder="Что-то ищешь?" 
+                type="search" 
+                name="s"
+            > 
+            <button class="bg-primary text-white block w-full cursor-pointer py-2 mt-4 hover:bg-black transition duration-200 px-5 text-base uppercase border-0" type="submit" value="submit">
+                Поиск 
+            </button>
+        </div>
+        <input type="hidden" name="post_type" value="post">
+    </div>
+</form>    </div>
+        <div class="p-4 sm:p-6 bg-white border border-solid border-gray-1">
+        <div class="poptin-embedded" data-id="5d4ff431b4d84"></div>
+    </div>
+    
+<div class="p-4 sm:p-6 border border-solid border-gray-1 bg-white">
+    <h2 class="font-primary text-gray-2 text-lg uppercase font-bold mt-0 mb-3">Последние сообщения</h2>
+    <ul class="list-none">
+                  
+                  
+        <li class="border-b border-solid border-gray-1 border-x-0 border-t-0 leading-3 last:border-b-0">
+            <a class="font-secondary hover:text-primary transition duration-200 block py-1.5 text-base no-underline text-gray-2" href="https://www.poptin.com/blog/ru/set-up-saas-business/">How To Set Up A SaaS Business: 6 Steps</a>
+        </li>
+          
+          
+                  
+        <li class="border-b border-solid border-gray-1 border-x-0 border-t-0 leading-3 last:border-b-0">
+            <a class="font-secondary hover:text-primary transition duration-200 block py-1.5 text-base no-underline text-gray-2" href="https://www.poptin.com/blog/ru/technical-tips-seo-ecommerce/">8 Технические советы для SEO в электронной коммерции</a>
+        </li>
+          
+          
+                  
+        <li class="border-b border-solid border-gray-1 border-x-0 border-t-0 leading-3 last:border-b-0">
+            <a class="font-secondary hover:text-primary transition duration-200 block py-1.5 text-base no-underline text-gray-2" href="https://www.poptin.com/blog/ru/why-you-should-include-cart-abandonment-popups-in-your-growth-strategy/">Why You Should Include Cart Abandonment Popups In Your Growth Strategy</a>
+        </li>
+          
+          
+                  
+        <li class="border-b border-solid border-gray-1 border-x-0 border-t-0 leading-3 last:border-b-0">
+            <a class="font-secondary hover:text-primary transition duration-200 block py-1.5 text-base no-underline text-gray-2" href="https://www.poptin.com/blog/ru/activecampaigns-pricing-better-option-for-expanding-your-email-list/">ActiveCampaign’s Pricing: Better Option for Expanding Your Email List?</a>
+        </li>
+          
+          
+                  
+        <li class="border-b border-solid border-gray-1 border-x-0 border-t-0 leading-3 last:border-b-0">
+            <a class="font-secondary hover:text-primary transition duration-200 block py-1.5 text-base no-underline text-gray-2" href="https://www.poptin.com/blog/ru/from-product-recommendations-to-chatbots-how-ai-is-enhancing-the-ecommerce-customer-journey/">From Product Recommendations to Chatbots: How AI is Enhancing the Ecommerce Customer Journey</a>
+        </li>
+          
+          
+                </ul>
+</div>
+<div class="p-4 sm:p-6 border border-solid border-gray-1 bg-white">
+    <h2 class="font-primary text-gray-2 text-lg uppercase font-bold mt-0 mb-3">Категории</h2>
+    <ul class="list-none general-blog-category">
+        	<li class="cat-item cat-item-83"><a href="https://www.poptin.com/blog/ru/category/affiliate-marketing/">партнёрский маркетинг</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.poptin.com/blog/ru/category/all/">Все</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="https://www.poptin.com/blog/ru/category/analytics/">аналитика</a>
+</li>
+	<li class="cat-item cat-item-1231"><a href="https://www.poptin.com/blog/ru/category/cms/">CMS</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="https://www.poptin.com/blog/ru/category/content-marketing/">контент-маркетинг</a>
+</li>
+	<li class="cat-item cat-item-134"><a href="https://www.poptin.com/blog/ru/category/crm/">CRM</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="https://www.poptin.com/blog/ru/category/cro/">CRO</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="https://www.poptin.com/blog/ru/category/customer-club/">клуб клиентов</a>
+</li>
+	<li class="cat-item cat-item-726"><a href="https://www.poptin.com/blog/ru/category/customer-service/">Служба поддержки</a>
+</li>
+	<li class="cat-item cat-item-82"><a href="https://www.poptin.com/blog/ru/category/e-commerce/">электронная торговля</a>
+</li>
+	<li class="cat-item cat-item-294"><a href="https://www.poptin.com/blog/ru/category/email-marketing/">почтовый маркетинг</a>
+</li>
+	<li class="cat-item cat-item-233"><a href="https://www.poptin.com/blog/ru/category/graphic-design/">графическое оформление</a>
+</li>
+	<li class="cat-item cat-item-176"><a href="https://www.poptin.com/blog/ru/category/growth-hacking/">хакерство роста</a>
+</li>
+	<li class="cat-item cat-item-247"><a href="https://www.poptin.com/blog/ru/category/insight/">понимание</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="https://www.poptin.com/blog/ru/category/landing-pages/">целевые страницы</a>
+</li>
+	<li class="cat-item cat-item-947"><a href="https://www.poptin.com/blog/ru/category/lead-generation/">генерирование свинца</a>
+</li>
+	<li class="cat-item cat-item-309"><a href="https://www.poptin.com/blog/ru/category/project-management/">ведение проектов</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://www.poptin.com/blog/ru/category/saas/">саасы</a>
+</li>
+	<li class="cat-item cat-item-204"><a href="https://www.poptin.com/blog/ru/category/sales/">продажи</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="https://www.poptin.com/blog/ru/category/seo/">SEO</a>
+</li>
+	<li class="cat-item cat-item-411"><a href="https://www.poptin.com/blog/ru/category/shopify/">покупать</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="https://www.poptin.com/blog/ru/category/social-media/">общественно-бытовая среда</a>
+</li>
+	<li class="cat-item cat-item-264"><a href="https://www.poptin.com/blog/ru/category/startup/">запуск</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="https://www.poptin.com/blog/ru/category/stock-images/">складские изображения</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://www.poptin.com/blog/ru/category/website-development/">разработка веб-сайтов</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="https://www.poptin.com/blog/ru/category/wordpress/">wordpress</a>
+</li>
+    </ul>
+</div>    </div>
+</aside>    </div>
+</section>
+<!-- Site footer markup goes here -->
+<footer class="mt-[32px]">
+    <div class="bg-[#313131] text-[#777] text-center py-[20px]">
+        <p class="font-secondary text-base">© ВСЕ ПРАВА ЗАЩИЩЕНЫ</p>
+        <ul class="flex mt-4 items-center gap-3 list-none justify-center">
+            <li>
+                <a class="inline-block" href="https://www.facebook.com/www.popt.in" target="_blank">
+                    <picture>
+                        <img width="40" height="40" loading="lazy" class="inline-block" src="https://www.poptin.com/blog/wp-content/themes/general-blog/images/icons/facebook.png" alt="facebook logo">
+                    </picture>
+                </a>
+            </li>
+            <li>
+                <a class="inline-block" href="https://twitter.com/poptins" target="_blank">
+                    <picture>
+                        <img width="40" height="40" class="inline-block" loading="lazy" src="https://www.poptin.com/blog/wp-content/themes/general-blog/images/icons/twitter.png" alt="twitter logo">
+                    </picture>
+                </a>
+            </li>
+            <li>
+                <a class="inline-block" href="https://www.instagram.com/popt.in/" target="_blank">
+                    <picture>
+                        <img width="40" height="40" class="inline-block" loading="lazy" src="https://www.poptin.com/blog/wp-content/themes/general-blog/images/icons/instagram.png" alt="instagram logo">
+                    </picture>
+                </a>
+            </li>
+            <li>
+                <a class="inline-block" href="https://www.linkedin.com/company/poptin/" target="_blank">
+                    <picture>
+                        <img width="40" height="40" class="inline-block" loading="lazy" src="https://www.poptin.com/blog/wp-content/themes/general-blog/images/icons/linkedin.png" alt="linkedin logo">
+                    </picture>
+                </a>
+            </li>
+        </ul>
+    </div>
+</footer>  
+</div> <!-- end of .document-wrap -->
+
+<button id="general-blog-btt-btn" class="right-5 sm:right-8 bottom-20 sm:bottom-24 z-40 w-[40px] h-[40px] rounded-full fixed p-0 border flex border-solid border-primary bg-white items-center text-primary justify-center cursor-pointer hover:bg-primary hover:text-white transition duration-200 ease-linear">            <svg width="20" height="20" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1675 971q0 51-37 90l-75 75q-38 38-91 38-54 0-90-38l-294-293v704q0 52-37.5 84.5t-90.5 32.5h-128q-53 0-90.5-32.5t-37.5-84.5v-704l-294 293q-36 38-90 38t-90-38l-75-75q-38-38-38-90 0-53 38-91l651-651q35-37 90-37 54 0 91 37l651 651q37 39 37 91z" fill="currentColor"/></svg>
+        </button>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px;top:100px;background-color:transparent"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.poptin.com%2Fblog%2Fblog%2Ftag%2Fadobe-color%2F&amp;linkname=ADOBE%20Color%20Archives%20-%20Poptin%20blog" title="Фейсбук" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.poptin.com%2Fblog%2Fblog%2Ftag%2Fadobe-color%2F&amp;linkname=ADOBE%20Color%20Archives%20-%20Poptin%20blog" title="Твиттер" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=https%3A%2F%2Fwww.poptin.com%2Fblog%2Fblog%2Ftag%2Fadobe-color%2F&amp;linkname=ADOBE%20Color%20Archives%20-%20Poptin%20blog" title="Пинтерес" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.poptin.com%2Fblog%2Fblog%2Ftag%2Fadobe-color%2F&amp;linkname=ADOBE%20Color%20Archives%20-%20Poptin%20blog" title="Реддит" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fwww.poptin.com%2Fblog%2Fblog%2Ftag%2Fadobe-color%2F&amp;linkname=ADOBE%20Color%20Archives%20-%20Poptin%20blog" title="Ссылка на сайт" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fwww.poptin.com%2Fblog%2Fblog%2Ftag%2Fadobe-color%2F&amp;linkname=ADOBE%20Color%20Archives%20-%20Poptin%20blog" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.poptin.com%2Fblog%2Fblog%2Ftag%2Fadobe-color%2F&amp;linkname=ADOBE%20Color%20Archives%20-%20Poptin%20blog" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_buffer" href="https://www.addtoany.com/add_to/buffer?linkurl=https%3A%2F%2Fwww.poptin.com%2Fblog%2Fblog%2Ftag%2Fadobe-color%2F&amp;linkname=ADOBE%20Color%20Archives%20-%20Poptin%20blog" title="Буфер" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd a2a_counter addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div>
+  <!--copyscapeskip-->
+  <aside id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-dark-scheme gdpr_infobar_postion_bottom" aria-label="GDPR Cookie Banner" style="display: none;">
+    <div class="moove-gdpr-info-bar-container">
+      <div class="moove-gdpr-info-bar-content">
+        
+<div class="moove-gdpr-cookie-notice">
+  <p>Мы используем файлы cookie, чтобы обеспечить вам наилучшие впечатления от работы с нашим сайтом.</p><p>Вы можете узнать больше о том, какие файлы cookie мы используем, или отключить их в <span data-href="#moove_gdpr_cookie_modal" class="change-settings-button">настройках</span>.</p></div>
+<!--  .moove-gdpr-cookie-notice -->        
+<div class="moove-gdpr-button-holder">
+		  <button class="mgbutton moove-gdpr-infobar-allow-all gdpr-fbo-0" aria-label="Accept"  role="button">Принять</button>
+	  </div>
+<!--  .button-container -->      </div>
+      <!-- moove-gdpr-info-bar-content -->
+    </div>
+    <!-- moove-gdpr-info-bar-container -->
+  </aside>
+  <!-- #moove_gdpr_cookie_info_bar -->
+  <!--/copyscapeskip-->
+<script type='text/javascript' id='moove_gdpr_frontend-js-extra'>
+/* <![CDATA[ */
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https:\/\/www.poptin.com\/blog\/wp-admin\/admin-ajax.php","post_id":"301","plugin_dir":"https:\/\/www.poptin.com\/blog\/wp-content\/plugins\/gdpr-cookie-compliance","show_icons":"all","is_page":"","ajax_cookie_removal":"true","strict_init":"1","enabled_default":{"third_party":0,"advanced":0},"geo_location":"false","force_reload":"false","is_single":"","hide_save_btn":"false","current_user":"0","cookie_expiration":"365","script_delay":"2000","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":""};
+/* ]]> */
+</script>
+<script type='text/javascript' defer src='https://www.poptin.com/blog/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=4.12.2' id='moove_gdpr_frontend-js'></script>
+<script type='text/javascript' id='moove_gdpr_frontend-js-after'>
+var gdpr_consent__strict = "false"
+var gdpr_consent__thirdparty = "false"
+var gdpr_consent__advanced = "false"
+var gdpr_consent__cookies = ""
+</script>
+
+    
+  <!--copyscapeskip-->
+  <!-- V1 -->
+  <div id="moove_gdpr_cookie_modal" class="gdpr_lightbox-hide" role="complementary" aria-label="GDPR Settings Screen">
+    <div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v1">
+          
+        <button class="moove-gdpr-modal-close" aria-label="Close GDPR Cookie Settings">
+          <span class="gdpr-sr-only">Закрыть настройки GDPR Cookie</span>
+          <span class="gdpr-icon moovegdpr-arrow-close"></span>
+        </button>
+            <div class="moove-gdpr-modal-left-content">
+        
+<div class="moove-gdpr-company-logo-holder">
+  <img src="https://www.poptin.com/blog/wp-content/plugins/gdpr-cookie-compliance/dist/images/gdpr-logo.png" alt="Поптинский блог"   width="350"  height="233"  class="img-responsive" />
+</div>
+<!--  .moove-gdpr-company-logo-holder -->        <ul id="moove-gdpr-menu">
+          
+<li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+  <button data-href="#privacy_overview" class="moove-gdpr-tab-nav" aria-label="Privacy Overview">
+    <span class="gdpr-nav-tab-title">Обзор конфиденциальности</span>
+  </button>
+</li>
+
+  <li class="menu-item-strict-necessary-cookies menu-item-off">
+    <button data-href="#strict-necessary-cookies" class="moove-gdpr-tab-nav" aria-label="Strictly Necessary Cookies">
+      <span class="gdpr-nav-tab-title">Строго необходимые Cookies</span>
+    </button>
+  </li>
+
+
+
+
+        </ul>
+        
+<div class="moove-gdpr-branding-cnt">
+  		<a href="https://wordpress.org/plugins/gdpr-cookie-compliance/" rel="noopener noreferrer" target="_blank" class='moove-gdpr-branding'><span>Соответствие GDPR Cookie</span></a>
+		</div>
+<!--  .moove-gdpr-branding -->      </div>
+      <!--  .moove-gdpr-modal-left-content -->
+      <div class="moove-gdpr-modal-right-content">
+        <div class="moove-gdpr-modal-title">
+           
+        </div>
+        <!-- .moove-gdpr-modal-ritle -->
+        <div class="main-modal-content">
+
+          <div class="moove-gdpr-tab-content">
+            
+<div id="privacy_overview" class="moove-gdpr-tab-main">
+      <span class="tab-title">Обзор конфиденциальности</span>
+    <div class="moove-gdpr-tab-main-content">
+  	<p>Этот сайт использует куки-файлы, чтобы мы могли предоставить вам наилучшее обслуживание. Информация о куки-файлах хранится в вашем браузере и выполняет такие функции, как распознавание вас, когда вы возвращаетесь на наш сайт, а также помогает нашей команде понять, какие разделы сайта вы считаете наиболее интересными и полезными.</p>
+  	  </div>
+  <!--  .moove-gdpr-tab-main-content -->
+
+</div>
+<!-- #privacy_overview -->            
+  <div id="strict-necessary-cookies" class="moove-gdpr-tab-main" style="display:none">
+    <span class="tab-title">Строго необходимые Cookies</span>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Строго необходимые файлы Cookie должны быть включены в любое время, чтобы мы могли сохранить ваши предпочтения в настройках cookie-файлов.</p>
+      <div class="moove-gdpr-status-bar">
+        <div class="gdpr-cc-form-wrap">
+          <div class="gdpr-cc-form-fieldset">
+            <label class="cookie-switch" for="moove_gdpr_strict_cookies">    
+              <span class="gdpr-sr-only">Включить или отключить Cookies</span>        
+              <input type="checkbox" aria-label="Strictly Necessary Cookies"  value="check" name="moove_gdpr_strict_cookies" id="moove_gdpr_strict_cookies">
+              <span class="cookie-slider cookie-round" data-text-enable="Enabled" data-text-disabled="Disabled"></span>
+            </label>
+          </div>
+          <!-- .gdpr-cc-form-fieldset -->
+        </div>
+        <!-- .gdpr-cc-form-wrap -->
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+              <div class="moove-gdpr-strict-warning-message" style="margin-top: 10px;">
+          <p>Если вы отключите этот куки-файл, мы не сможем сохранить ваши предпочтения. Это означает, что каждый раз, когда вы посещаете этот сайт, вам будет необходимо включить или отключить куки снова.</p>
+        </div>
+        <!--  .moove-gdpr-tab-main-content -->
+                                              
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #strict-necesarry-cookies -->
+            
+            
+            
+          </div>
+          <!--  .moove-gdpr-tab-content -->
+        </div>
+        <!--  .main-modal-content -->
+        <div class="moove-gdpr-modal-footer-content">
+          <div class="moove-gdpr-button-holder">
+			  		<button class="mgbutton moove-gdpr-modal-allow-all button-visible" role="button" aria-label="Enable All">Включить все</button>
+		  					<button class="mgbutton moove-gdpr-modal-save-settings button-visible" role="button" aria-label="Save Settings">Сохранить настройки</button>
+				</div>
+<!--  .moove-gdpr-button-holder -->        </div>
+        <!--  .moove-gdpr-modal-footer-content -->
+      </div>
+      <!--  .moove-gdpr-modal-right-content -->
+
+      <div class="moove-clearfix"></div>
+
+    </div>
+    <!--  .moove-gdpr-modal-content -->
+  </div>
+  <!-- #moove_gdpr_cookie_modal -->
+  <!--/copyscapeskip-->
+</body>
+</html>
